@@ -37,7 +37,7 @@ https://2dice.tech/category/ios-app/calcsheet/
     - testスクリプトで全テスト(vitest,playwright)実行設定
       - ブラウザを起動しユーザーもテストを見られるオプションでテスト(--headed)
     - `npm run check`にplaywright実行設定追加(check時はヘッドレス、CIにも追加)
-  - Tailwind CSS(v4.1) + shadcn/uiでUI作成(step1-6)
+  - Tailwind CSS(v4) + shadcn/uiでUI作成(step1-6)
     - デフォルトで作成された不要ファイル削除
   - PWA対応(vite-plugin-pwa)(step1-7)
     - manifest(ホーム画面追加)設定
