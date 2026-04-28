@@ -25,7 +25,7 @@
 #### 現状のディレクトリ構造
 
 ```
-pocket-calcsheet_cca/
+pocket-calcsheet_codex/
 ├── docs/                             # 開発用ドキュメント
 ├── .github/
 │   └── workflows/
