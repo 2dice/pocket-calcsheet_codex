@@ -24,14 +24,7 @@
 
 #### 現状のディレクトリ構造
 
-```
-pocket-calcsheet_codex/
-├── docs/                             # 開発用ドキュメント
-├── .github/
-│   └── workflows/
-│       └── manual_deploy.yml         # 各ブランチでのテストデプロイ用
-└── AGENTS.md                         # AIコーディングエージェント用
-```
+- treeコマンドで確認し、最終的なディレクトリ構造と比較
 
 ## Project Overview
 

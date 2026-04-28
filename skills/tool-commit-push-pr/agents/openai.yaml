@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Push PR Rule"
+  short_description: "コミットとPRメッセージ規約を自動適用する運用スキル"
+  default_prompt: "コミット時はこの規約で進めて"
