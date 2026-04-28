@@ -1,1 +1,1 @@
-# pocket-calcsheet_qwen-coder
+# pocket-calcsheet_codex
