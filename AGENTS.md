@@ -24,7 +24,7 @@
 
 #### 現状のディレクトリ構造
 
-- treeコマンドで確認し、最終的なディレクトリ構造と比較
+- 現状ディレクトリはls -Rコマンドで取得(dist/, node_modules/, .git/を除外)
 
 ## Project Overview
 
@@ -59,6 +59,18 @@
 - Vitest + React Testing Library (jest-dom): ユニットテスト
 - Playwright: E2Eテスト (モバイルブラウザ特化)
 - ESLint + Prettier: コード品質管理
+
+## Key Commands
+
+```bash
+
+# ビルド
+npm run build
+
+# 品質チェック
+npm run lint          # ESLint 自動修正
+npm run check         # TypeScript型チェック
+```
 
 ## Architecture Overview
 
